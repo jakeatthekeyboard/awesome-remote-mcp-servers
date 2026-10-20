@@ -1176,6 +1176,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎓 <a name="education"></a>Education
 
+- [Certopolis](https://certopolis.com/?src=awesome-mcp) `https://certopolis.com/mcp`
+  [![Certopolis MCP connector](https://glama.ai/mcp/connectors/com.certopolis/certopolis/badges/score.svg)](https://glama.ai/mcp/connectors/com.certopolis/certopolis)
+  🔐 - Certification exam practice (AWS, Security+, PMP, CFA and more): deal questions, answer, learn why, track your town.
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
